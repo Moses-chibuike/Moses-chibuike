@@ -21,4 +21,4 @@
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ezechukwu-chibuike/) 👨🏻‍💻
 
-Write Me an [Email] (https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ezechukwuchibuikemoses@gmail.com.com) 💌
+Write Me an [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ezechukwuchibuikemoses@gmail.com.com) 💌
