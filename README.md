@@ -19,6 +19,6 @@
 
 - 📫 Connect with Me:
 
-Connect with me on LinkedIn 👨🏻‍💻
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ezechukwu-chibuike/) 👨🏻‍💻
 
 Write Me an Email 💌
