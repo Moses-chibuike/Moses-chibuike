@@ -1,4 +1,4 @@
-![hello_you](https://user-images.githubusercontent.com/45429302/201869682-0c0b3846-2636-4028-bb6f-3dd97354838c.png)
+![me](https://user-images.githubusercontent.com/45429302/201871171-1428d185-b235-49f9-8602-2fb20d24888e.jpg)
 
 - 👋 Hi, I’m Moses, a Front-End Developer passionate about solving real life problems with code. My background is in Electrical Engineering (I know right?), but my love for Tech and building meaningful life-changing projects overtook me (the heart wants what it wants 🥰🥰). I currently work as a Software Engineer with a global company with great company culture and I love it.
 
