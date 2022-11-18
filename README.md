@@ -51,9 +51,9 @@
   </p>
 
 
-<h3>📫 Connect with Me</h3>
+<h2>📫 Connect with Me</h2>
 
-- Write Me an [Email](mailto:Lilianumeakunne@gmail.com) 💌
+- Write Me an [Email](mailto:ezechukwuchibuikemoses@gmail.com) 💌
 
 <p>
 <a href="https://www.linkedin.com/in/ezechukwu-chibuike/" rel="nofollow"><img src="https://camo.githubusercontent.com/87d5d116fc21c9c18b4372b5e97e59c68555790411ae7e4da6b8adf30be14194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373762353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
