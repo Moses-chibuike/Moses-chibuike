@@ -51,7 +51,7 @@
   </p>
 
 
-<h2>📫 Connect with Me</h2>
+<h3>📫 Connect with Me</h3>
 
 - Write Me an [Email](mailto:ezechukwuchibuikemoses@gmail.com) 💌
 
