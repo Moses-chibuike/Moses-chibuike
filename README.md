@@ -58,5 +58,5 @@
 <a href="https://twitter.com/Ezechukwuchibu2" rel="nofollow"><img src="https://camo.githubusercontent.com/72b90db8b403b8087e20699857f05cb0a201f2ddfa8439783d3ef17cee0eea02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <p>
- - Write Me an [Email](mailto:ezechukwuchibuikemoses@gmail.com) 💌
+Write Me an [Email](mailto:ezechukwuchibuikemoses@gmail.com) 💌
 </p>
